@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - echo "not install here , has to be changed"
+      - echo "not install here , has to be changed."
   build:
     commands:
       - npm "test"
